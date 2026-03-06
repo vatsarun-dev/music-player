@@ -39,7 +39,7 @@ const music = [
   {
     cover: "https://i.ytimg.com/vi/1rVY08gRGmA/maxresdefault.jpg",
     name: "Fairy Tale",
-    title: "Alexander Rybak",
+    title: "Alexander",
     src: "./assets/Alexander Rybak - Fairytale.mp3"
   }
 ];
